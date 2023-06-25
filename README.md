@@ -5,7 +5,7 @@
 <br>
 
 <img align="right" alt="Code" width="310" height="205" src="vsgif.gif">
-<br>
+
 - 🌱 I’m currently learning **Nodejs, Mongodb, React(MERN).**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishalkrsinghh](https://github.com/vishalkrsinghh)
