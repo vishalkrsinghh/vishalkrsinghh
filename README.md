@@ -32,8 +32,8 @@
   <h2 align="center">🐍 My Contributions 🐍</h2>
   <br>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+ <!-- <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" /> -->
+ <!-- <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" /> -->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vishalkrsinghh/vishalkrsinghh/output/github-contribution-grid-snake.svg" />
   </picture>
 <h3 align="center">
