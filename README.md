@@ -26,5 +26,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalkrsinghh&show_icons=true&locale=en&layout=compact" alt="vishalkrsinghh" /></p><br><hr>
 
-  ### 📈 My GitHub Contributions  
-![Snake animation](https://github.com/vishalkrsinghh/vishalkrsinghh/blob/output/github-contribution-grid-snake.svg)
+ <!-- ### 📈 My GitHub Contributions -->
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vishalkrsinghh/vishalkrsinghh/output/github-contribution-grid-snake.svg" />
