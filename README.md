@@ -1,4 +1,6 @@
-<h1 align="center">Hlw Everyone 👋, I'm Vishal Kumar Singh.</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishal+Kumar+Singh!;" />
+</h1>
 <h3 align="center">A passionate Fullstack developer. Looking for a challenging role so that i can use my skills and capabilities.</h3>
 <div > <img align="center" src="gif.gif"> </div>
 <p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=vishalkrsinghh&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkrsinghh" /> </p>
@@ -27,6 +29,10 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalkrsinghh&show_icons=true&locale=en&layout=compact" alt="vishalkrsinghh" /></p><br><hr>
 
  <!-- ### 📈 My GitHub Contributions -->
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2 align="center">🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vishalkrsinghh/vishalkrsinghh/output/github-contribution-grid-snake.svg" />
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+  
