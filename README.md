@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishal+Kumar+Singh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;Welcome+to+my+profile;+I'm+Vishal+Kumar+Singh!;" />
 </h1>
 <h3 align="center">A passionate Fullstack developer. Looking for a challenging role so that i can use my skills and capabilities.</h3>
-<div > <img align="center" src="gif.gif"> </div>
+<!-- <div > <img align="center" src="gif.gif"> </div> -->
 <p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=vishalkrsinghh&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkrsinghh" /> </p>
 
 
